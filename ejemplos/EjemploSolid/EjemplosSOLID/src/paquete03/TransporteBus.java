@@ -10,6 +10,7 @@ package paquete03;
  * @author reroes
  */
 public class TransporteBus {
+    
     private String cooperativaBus;
     public double tarifa;
     
