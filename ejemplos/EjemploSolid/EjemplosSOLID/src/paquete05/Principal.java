@@ -6,6 +6,7 @@ package paquete05;
 /**
  *
  * @author reroes
+ * 
  */
 public class Principal {
 
