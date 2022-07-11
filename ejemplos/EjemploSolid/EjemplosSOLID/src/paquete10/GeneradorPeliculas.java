@@ -26,4 +26,11 @@ public class GeneradorPeliculas {
         return url;
     }
     
+    @Override
+    public String toString(){
+        String cadena = String.format("%s",
+                obtenerUrl());
+        return cadena;
+    }
+    
 }
